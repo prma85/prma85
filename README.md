@@ -2,7 +2,7 @@
 
 Welcome to my page. My name is Paulo, and I am a Brazilian/Canadian citizen living in Canada. I have a passion for frontend development, reaching and teaching. I like to try new things, new techs, new trends... I live for creating a great UX, and I believe in an accessible web, a web for everyone.
 
-I have 14+ more years of IT experience with a growing career. Started with application and hardware support, passing through business analysis, project manager, full-stack PHP developer (Joomla and WordPress) to the present days as Tech Lead and Senior Frontend Engineering. 
+I have 15+ more years of IT experience with a growing career. Started with application and hardware support, passing through business analysis, project manager, full-stack PHP developer (Joomla and WordPress) to the present days as Tech Lead and Senior Frontend Engineering. 
 
 I have a foot in academia, with experience as a professor in the university and technical courses. I also have few research papers published (check it on [Research Gate](https://www.researchgate.net/profile/Paulo_Roberto_Martins_De_Andrade) and [Academia.edu](https://uregina.academia.edu/pauloandrade).
 
