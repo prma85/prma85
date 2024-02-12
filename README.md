@@ -8,6 +8,8 @@ I have a foot in academia, with experience as a professor in the university and 
 
 I also trying to make my part in the open-source community, contributing with few projects like [Cypress.io](https://docs.cypress.io/guides/overview/why-cypress), [Backbone.JS](https://backbonejs.org/), [Gulp.JS](https://github.com/gulpjs), [Docusaurus](https://docusaurus.io/), [Joomla](https://www.joomla.org/), and [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped). I have also have some NPM packages published: [cypress-teamcity-reporter](https://www.npmjs.com/package/cypress-teamcity-reporter), [cypress-azure-keyvault](https://www.npmjs.com/package/cypress-azure-keyvault), and [better-coding-script](https://www.npmjs.com/package/better-coding-script)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - ⌨️ Tools I use:
   - **Base:** HTML5, CSS/SCSS, JavaScript ES6+, Typescript, PHP, NodeJS
   - **UI:** Bootstrap, Ant Design, Material UI, LESS/SASS
